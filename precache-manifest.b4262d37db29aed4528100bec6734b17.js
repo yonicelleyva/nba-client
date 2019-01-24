@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/nba-client/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
   {
-    "revision": "6a207681bb7689989767",
+    "revision": "25061aaa40c618411b06",
     "url": "/nba-client/static/css/main.35606451.chunk.css"
   },
   {
@@ -20,27 +20,27 @@ self.__precacheManifest = [
     "url": "/nba-client/static/js/runtime~main.74a0c7e4.js"
   },
   {
-    "revision": "6a207681bb7689989767",
-    "url": "/nba-client/static/js/main.6a207681.chunk.js"
+    "revision": "25061aaa40c618411b06",
+    "url": "/nba-client/static/js/main.25061aaa.chunk.js"
   },
   {
     "revision": "448c34a56d699c29117adc64c43affeb",
     "url": "/nba-client/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
-    "revision": "fa2772327f55d8198301fdb8bcfc8158",
-    "url": "/nba-client/static/media/glyphicons-halflings-regular.fa277232.woff"
-  },
-  {
     "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
     "url": "/nba-client/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
+  },
+  {
+    "revision": "fa2772327f55d8198301fdb8bcfc8158",
+    "url": "/nba-client/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   {
     "revision": "32ec6570d969d156aa25",
     "url": "/nba-client/static/css/1.33a99dd6.chunk.css"
   },
   {
-    "revision": "08cadb881da804298db2cf437471ff43",
+    "revision": "2e402beaf2cd4d3eb1df25fbd6e9d594",
     "url": "/nba-client/index.html"
   }
 ];
