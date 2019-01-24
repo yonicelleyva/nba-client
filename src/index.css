@@ -12,3 +12,44 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.Header .navbar {
+  margin-bottom: 0px;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.sweet-loading {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.react-table {
+  padding-top: 20px;
+  /* padding-bottom: 50px; */
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.button-center {
+  display: flex;
+  justify-content: center;
+}
+
+.standings {
+  padding-bottom: 50px;
+}
