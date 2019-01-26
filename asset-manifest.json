@@ -1,16 +1,16 @@
 {
   "main.css": "/nba-client/static/css/main.35606451.chunk.css",
-  "main.js": "/nba-client/static/js/main.228b9425.chunk.js",
-  "main.js.map": "/nba-client/static/js/main.228b9425.chunk.js.map",
+  "main.js": "/nba-client/static/js/main.63e4249d.chunk.js",
+  "main.js.map": "/nba-client/static/js/main.63e4249d.chunk.js.map",
   "static/css/1.33a99dd6.chunk.css": "/nba-client/static/css/1.33a99dd6.chunk.css",
   "static/js/1.32ec6570.chunk.js": "/nba-client/static/js/1.32ec6570.chunk.js",
   "static/js/1.32ec6570.chunk.js.map": "/nba-client/static/js/1.32ec6570.chunk.js.map",
   "runtime~main.js": "/nba-client/static/js/runtime~main.74a0c7e4.js",
   "runtime~main.js.map": "/nba-client/static/js/runtime~main.74a0c7e4.js.map",
-  "static/media/bootstrap.min.css": "/nba-client/static/media/glyphicons-halflings-regular.f4769f9b.eot",
+  "static/media/bootstrap.min.css": "/nba-client/static/media/glyphicons-halflings-regular.448c34a5.woff2",
   "static/css/main.35606451.chunk.css.map": "/nba-client/static/css/main.35606451.chunk.css.map",
   "static/css/1.33a99dd6.chunk.css.map": "/nba-client/static/css/1.33a99dd6.chunk.css.map",
   "index.html": "/nba-client/index.html",
-  "precache-manifest.7fe1bb78a54a1f53332d731a38826c24.js": "/nba-client/precache-manifest.7fe1bb78a54a1f53332d731a38826c24.js",
+  "precache-manifest.6ba5c0bf713a59954ab5710ea757e3f4.js": "/nba-client/precache-manifest.6ba5c0bf713a59954ab5710ea757e3f4.js",
   "service-worker.js": "/nba-client/service-worker.js"
 }
